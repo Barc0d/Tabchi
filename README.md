@@ -5,10 +5,10 @@
     <a href="https://telegram.me/barc0dbot">
         <img src="http://upir.ir/951/guest/Untitled-5.png" hspace="10" width="150">
     </a>
-    <a href="https://telegram.me/tabchisell">
+    <a href="https://telegram.me/barc0dbot">
         <img src="http://upir.ir/951/guest/Untitled-7.png" hspace="10" width="150">
     </a>
-    <a href="https://telegram.me/ramtintz">
+    <a href="https://telegram.me/Mr_barc0d">
         <img src="http://upir.ir/951/guest/Untitled-6.png" width="150">
     </a>
 </div>
@@ -318,7 +318,7 @@
 <br>
 <h2 dir="rtl">پشتیبانی
 <hr>
-<h4 dir="rtl">پذیرای انتقادات وپیشنهاداتان هستیم ♚ TabChiSell ♚ <a href="https://telegram.me/mr_barc0d"> @mr_barc0d </a> <a href="https://telegram.me/barc0dbot"> @barc0dbot</a>
-<br>راهنمای استفاده از تبلیغ‌گر بسیار ساده و قابل درک است<br>فیلم آموزشی نصب و اطلاع از آخرین اخبار تبلیغ‌گر در کانال ما 
+<h4 dir="rtl">پذیرای انتقادات وپیشنهاداتان هستیم ♚ Mr_barc0d ♚ <a href="https://telegram.me/mr_barc0d"> @mr_barc0d </a> <a href="https://telegram.me/barc0dbot"> @barc0dbot</a>
+<br>
 <a href="https://telegram.me/barc0dbot"> @barc0dbot</a>
 </h4>
